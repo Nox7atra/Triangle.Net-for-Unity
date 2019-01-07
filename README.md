@@ -12,6 +12,7 @@ public static Mesh GenerateUnityMesh(this TriangleNetMesh triangleNetMesh, Quali
 
 Пример использования в Demo
 
+# License
 
 Copyright 2018 CGDevs
 
