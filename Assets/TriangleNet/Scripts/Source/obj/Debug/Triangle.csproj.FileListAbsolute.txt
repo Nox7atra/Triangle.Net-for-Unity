@@ -1,0 +1,5 @@
+C:\Users\warso\Desktop\triangle\Triangle.NET\Triangle\bin\Debug\Triangle.dll
+C:\Users\warso\Desktop\triangle\Triangle.NET\Triangle\bin\Debug\Triangle.pdb
+C:\Users\warso\Desktop\triangle\Triangle.NET\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\warso\Desktop\triangle\Triangle.NET\Triangle\obj\Debug\Triangle.dll
+C:\Users\warso\Desktop\triangle\Triangle.NET\Triangle\obj\Debug\Triangle.pdb
