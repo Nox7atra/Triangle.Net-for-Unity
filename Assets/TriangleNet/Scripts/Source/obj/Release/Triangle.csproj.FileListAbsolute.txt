@@ -1,6 +1,0 @@
-C:\Users\warso\Desktop\triangle\Triangle.NET\Triangle\bin\Release\Triangle.dll
-C:\Users\warso\Desktop\triangle\Triangle.NET\Triangle\bin\Release\Triangle.pdb
-C:\Users\warso\Desktop\triangle\Triangle.NET\Triangle\obj\Release\Triangle.csproj.CoreCompileInputs.cache
-C:\Users\warso\Desktop\triangle\Triangle.NET\Triangle\obj\Release\Triangle.dll
-C:\Users\warso\Desktop\triangle\Triangle.NET\Triangle\obj\Release\Triangle.pdb
-C:\Users\warso\Desktop\triangle\Triangle.NET\Triangle\obj\Release\Triangle.csprojResolveAssemblyReference.cache

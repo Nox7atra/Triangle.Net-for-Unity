@@ -14,7 +14,7 @@ public class TriangulationTest : MonoBehaviour
 	[SerializeField] private int _VertexCount;
 	
 	[SerializeField] private List<Vector2> _Contour;
-	
+	[SerializeField] private MeshFilter _Filter;
 	private Polygon _Polygon;
 	private TriangleNetMesh _TriangleNetMesh;
 
@@ -28,13 +28,19 @@ public class TriangulationTest : MonoBehaviour
 	}
 	public void Triangulate()
 	{
-		_Polygon = _Contour.FromContourToPolygon();
-		
+		_Polygon = new Polygon();
+		foreach (var vector2 in _Contour)
+		{
+			_Polygon.Add(vector2);
+		}
 		_TriangleNetMesh = (TriangleNetMesh) _Polygon.Triangulate();
+		_Filter.mesh = _TriangleNetMesh.GenerateUnityMesh();
 	}
-	private void OnDrawGizmos()
+
+	private void OnDrawGizmosSelected()
 	{
-		_TriangleNetMesh.DrawGizmos();
+		if(_TriangleNetMesh != null)
+			_TriangleNetMesh.DrawGizmos();
 	}
 }
 

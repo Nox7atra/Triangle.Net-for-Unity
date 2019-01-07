@@ -125,6 +125,13 @@ namespace TriangleNet.Geometry
             return this.hash;
         }
 
-
+        public static explicit operator Vector2(Vertex p)
+        {
+            return new Vector2(p.x, p.y);
+        }
+        public static explicit operator Vector3(Vertex p)
+        {
+            return new Vector3(p.x, p.y);
+        }
     }
 }
