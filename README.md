@@ -2,13 +2,13 @@
 
 Статья: https://habr.com/post/435374/
 
-# Методы Расширения
+## Методы Расширения
 
-public static void Add(this Polygon polygon, List<Vector2> contour, bool isHole = false) - добавить контур полигону с юнитёвым Vector2
+*public static void Add(this Polygon polygon, List<Vector2> contour, bool isHole = false)* - добавить контур полигону с юнитёвым Vector2
 
-public static void Add(this Polygon polygon, Vector2 vertex) - добавить вертекс в сетку с юнитёвым Vector2
+*public static void Add(this Polygon polygon, Vector2 vertex)* - добавить вертекс в сетку с юнитёвым Vector2
 
-public static Mesh GenerateUnityMesh(this TriangleNetMesh triangleNetMesh, QualityOptions options = null) - сгенерировать меш для Unity
+*public static Mesh GenerateUnityMesh(this TriangleNetMesh triangleNetMesh, QualityOptions options = null)* - сгенерировать меш для Unity
 
 Пример использования в Demo
 
