@@ -1,16 +1,16 @@
 # Triangle.Net-for-Unity
 
-Статья: https://habr.com/post/435374/
+Article about (rus): https://habr.com/post/435374/
 
 ## Методы Расширения
 
-*public static void Add(this Polygon polygon, List<Vector2> contour, bool isHole = false)* - добавить контур полигону с юнитёвым Vector2
+*public static void Add(this Polygon polygon, List<Vector2> contour, bool isHole = false)* - Add contour to Polygon
 
-*public static void Add(this Polygon polygon, Vector2 vertex)* - добавить вертекс в сетку с юнитёвым Vector2
+*public static void Add(this Polygon polygon, Vector2 vertex)* - Add vertex to Polygon
 
-*public static Mesh GenerateUnityMesh(this TriangleNetMesh triangleNetMesh, QualityOptions options = null)* - сгенерировать меш для Unity
+*public static Mesh GenerateUnityMesh(this TriangleNetMesh triangleNetMesh, QualityOptions options = null)* - Generate Unity Mesh
 
-Пример использования в Demo
+Usage example in Demo
 
 # License
 
