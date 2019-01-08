@@ -2,7 +2,7 @@
 
 Article about (rus): https://habr.com/post/435374/
 
-## Методы Расширения
+## Extention Methods
 
 *public static void Add(this Polygon polygon, List<Vector2> contour, bool isHole = false)* - Add contour to Polygon
 
