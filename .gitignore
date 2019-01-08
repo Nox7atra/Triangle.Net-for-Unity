@@ -39,3 +39,4 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *.gif
+Assets/AssetStoreTools*
