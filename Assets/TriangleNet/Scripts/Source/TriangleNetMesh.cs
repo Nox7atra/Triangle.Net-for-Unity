@@ -5,7 +5,6 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-using Boo.Lang;
 using UnityEngine;
 
 namespace TriangleNet

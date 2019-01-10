@@ -5,7 +5,6 @@
 // -----------------------------------------------------------------------
 
 using System.Linq;
-using Boo.Lang;
 using UnityEngine;
 
 namespace TriangleNet.Geometry
