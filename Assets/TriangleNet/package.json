@@ -1,0 +1,13 @@
+{
+  "name": "com.nox7atra.triangle.net",
+  "displayName": "TriangleNetUnity",
+  "version": "1.0.0",
+  "description": "A library that triangle.net with unity utility classes.",
+  "keywords": [
+    "unity",
+    "triangulation",
+    "triangle.net"
+  ],
+  "author": "Nox7atra",
+  "license": "MIT"
+}

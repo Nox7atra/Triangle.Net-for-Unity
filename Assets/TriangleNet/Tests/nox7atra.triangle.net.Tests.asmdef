@@ -1,0 +1,16 @@
+{
+    "name": "nox7atra.triangle.net.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0a9c05c03e25fee49a644b8ead257dab"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
