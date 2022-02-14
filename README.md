@@ -1,6 +1,7 @@
 # Triangle.Net-for-Unity
 
 Установка через Unity Package Manager / Add package from git URL: https://github.com/Nox7atra/Triangle.Net-for-Unity.git?path=/Assets/TriangleNet
+
 Article about (rus): https://habr.com/post/435374/
 
 ## Extention Methods
